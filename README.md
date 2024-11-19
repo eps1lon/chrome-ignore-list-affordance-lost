@@ -2,6 +2,8 @@
 
 ## Steps to reproduce
 
+Tested with Node.js 20.14.0 on Apple Silicon.
+
 1. `pnpm install`
 2. `pnpm start`
 3. Open `http://localhost:3000/` in your browser
