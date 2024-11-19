@@ -16,3 +16,5 @@ Ignore-listed frames in logged error should be hidden by default and only displa
 
 Ignore-listed frames are displayed by default and dimmed.
 "Show ignore-listed" is only displayed when the console.error call is expanded to show the sync callstack of the `console.error` call.
+
+![screenshot of actual behavior](./logged-error-not-ignore-listed-by-default.png)
